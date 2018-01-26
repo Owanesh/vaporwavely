@@ -1,4 +1,4 @@
-![Vaporwavely](https://raw.githubusercontent.com/Owanesh/vaporwavely/master/vaporwavely/logo.png)
+![Vaporwavely](https://raw.githubusercontent.com/Owanesh/vaporwavely/master/logo.png)
 ---
 [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
