@@ -33,7 +33,7 @@ Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs 
     ```py
     from vaporwavely import vaporize, vaporipsum
 
-    print(vaporize(vaporipsum(4)))
+    vaporize(vaporipsum(4))
     ```
 - **Do it upper**
     ```py
