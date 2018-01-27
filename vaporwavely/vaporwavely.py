@@ -1,7 +1,7 @@
 import string
 import random
 
-from utils import dictionary, alphabet
+from .utils import dictionary, alphabet
 
 
 

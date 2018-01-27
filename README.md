@@ -11,37 +11,35 @@ Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs 
 
 - `vaporipsum` : Generate a random text, like [Lorem Ipsum](https://www.lipsum.com/), but more nostalgic and aesthetic
 
-    ```
+    ```py
     from vaporwavely import vaporipsum
 
-    mytext = vaporipsum(4) # it generates 4 paragraphs of random text
-    print(mytext)
+    vaporipsum(4) # it generates 4 paragraphs of random text
     ```
 
 
 - `vaporize` : Convert your text from this **Hello World** to this **Ｈｅｌｌｏ Ｗｏｒｌｄ**
 
-    ```
+    ```py
     from vaporwavely import vaporize
 
     mystring = "Hi Owanesh"
-    mytext = vaporize(mystring)
-    print(mytext) # Ｈｉ Ｏｗａｎｅｓｈ
+    vaporize(mystring) # Ｈｉ Ｏｗａｎｅｓｈ
     ```
 ### Use combo for an ａｅｓｔｈｅｔｉｃ results 🦄
 
 - **Vaporize your vaporipsum**
 
-    ```
+    ```py
     from vaporwavely import vaporize, vaporipsum
 
     print(vaporize(vaporipsum(4)))
     ```
 - **Do it upper**
-    ```
+    ```py
     from vaporwavely import vaporize
 
-    print(vaporize('get me upper and vaporized').upper())
+    vaporize('get me upper and vaporized').upper()
     ```
     ＧＥＴ ＭＥ ＵＰＰＥＲ ＡＮＤ ＶＡＰＯＲＩＺＥＤ
 
@@ -50,7 +48,7 @@ Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs 
 
 First of all thanks if you want help me. Below there are requirements and steps for testing
 
-    pip install tests/requirements.txt
+    pip install vaporwavely/tests/requirements.txt
     nosetests --with-coverage --cover-package=vaporwavely
 
 
