@@ -48,7 +48,7 @@ Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs 
 
 First of all thanks if you want help me. Below there are requirements and steps for testing
 
-    pip install requirements-dev.txt
+    pip install -r requirements-dev.txt
     py.test --cov=vaporwavely tests
 
 

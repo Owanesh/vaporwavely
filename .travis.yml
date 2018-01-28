@@ -9,7 +9,7 @@ python:
   - 3.6
 
 install:
-  - pip install requirements-dev.txt
+  - pip install -r requirements-dev.txt
 
 script: py.test --cov=vaporwavely tests
 
