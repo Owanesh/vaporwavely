@@ -1,6 +1,6 @@
 ![Vaporwavely](https://raw.githubusercontent.com/Owanesh/vaporwavely/master/logo.png)
 ---
-[![codecov](https://codecov.io/gh/Owanesh/vaporwavely/branch/master/graph/badge.svg)](https://codecov.io/gh/Owanesh/vaporwavely)  [![Build Status](https://travis-ci.org/Owanesh/vaporwavely.svg?branch=master)](https://travis-ci.org/Owanesh/vaporwavely)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/italian-vip-says/blob/master/LICENSE) [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
+[![codecov](https://codecov.io/gh/Owanesh/vaporwavely/branch/master/graph/badge.svg)](https://codecov.io/gh/Owanesh/vaporwavely)  [![Build Status](https://travis-ci.org/Owanesh/vaporwavely.svg?branch=master)](https://travis-ci.org/Owanesh/vaporwavely)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/vaporwavely/blob/master/LICENSE) [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
 
 Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs with vaporipsum
