@@ -48,8 +48,9 @@ dictionary = [
               'where am i',
               'im dreaming',
               'where are you going',
-              'satisfaction guaranteed'
-            ]
+              'satisfaction guaranteed',
+              'sciare'
+]
 
 alphabet = {
             "a":"ａ",
@@ -104,4 +105,4 @@ alphabet = {
             "Y":"Ｙ",
             "z":"ｚ",
             "Z":"Ｚ"
-            }
+}

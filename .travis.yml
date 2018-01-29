@@ -9,8 +9,8 @@ python:
   - 3.6
 
 install:
-  - pip install -r vaporwavely/tests/requirements.txt
+  - pip install -r requirements-dev.txt
 
-script: nosetests --with-coverage --cover-package=vaporwavely
+script: py.test --cov=vaporwavely tests
 
 after_success: codecov
