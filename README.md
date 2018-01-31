@@ -1,7 +1,19 @@
-![Vaporwavely](https://raw.githubusercontent.com/Owanesh/vaporwavely/master/logo.png)
----
-[![codecov](https://codecov.io/gh/Owanesh/vaporwavely/branch/master/graph/badge.svg)](https://codecov.io/gh/Owanesh/vaporwavely)  [![Build Status](https://travis-ci.org/Owanesh/vaporwavely.svg?branch=master)](https://travis-ci.org/Owanesh/vaporwavely)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Owanesh/vaporwavely/blob/master/LICENSE) [![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Owanesh/vaporwavely/master/logo.png" alt="Vaporwavely Logo" />
+    <br>
+    <a href="https://codecov.io/gh/Owanesh/vaporwavely">
+      <img src="https://codecov.io/gh/Owanesh/vaporwavely/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/Owanesh/vaporwavely/blob/master/LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+    </a>
+    <a href="https://travis-ci.org/Owanesh/vaporwavely">
+      <img src="https://travis-ci.org/Owanesh/vaporwavely.svg?branch=master" />
+    </a><br>
+    <a href="http://forthebadge.com">
+      <img src="http://forthebadge.com/images/badges/made-with-python.svg" />
+    </a>
+</p>
 
 Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs with vaporipsum
 
@@ -26,6 +38,7 @@ Convert your text in an aesthetical text, or generate nostalgic 1999 paragraphs 
     mystring = "Hi Owanesh"
     vaporize(mystring) # Ｈｉ Ｏｗａｎｅｓｈ
     ```
+
 ### Use combo for an ａｅｓｔｈｅｔｉｃ results 🦄
 
 - **Vaporize your vaporipsum**
