@@ -7,6 +7,7 @@
     <a href="https://github.com/Owanesh/vaporwavely/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
     </a>
+    <a class="badge-align" href="https://www.codacy.com/app/Owanesh/vaporwavely?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Owanesh/vaporwavely&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/54e13d686273408a9e44bb54bb438fdd"/></a>
     <a href="https://travis-ci.org/Owanesh/vaporwavely">
       <img src="https://travis-ci.org/Owanesh/vaporwavely.svg?branch=master" />
     </a><br>
