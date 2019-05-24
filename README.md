@@ -67,6 +67,17 @@ pip install vaporwavely
     ```
     ＧＥＴ ＭＥ ＵＰＰＥＲ ＡＮＤ ＶＡＰＯＲＩＺＥＤ
 
+### Supported Programs
+
+Results vary by which terminal or editor you are using. For best results use:
+- **LXTerminal**
+- **Idle**
+- **Termius**
+
+You may find that these are not supported:
+- **Windows CMD & PowerShell**
+- **PuTTy for Windows**
+
 ### Contribute 🎖
 *Ｒｅａｌｌｙ ｍａｎ?*
 
